@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Lucas Marques, dev Full-Stack!
 <div align="center">
-  <a href="https://github.com/mlucasdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlucasdev&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlucasdev&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mlucasdev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="My contributions" />
+  <a href="https://github.com/codedbylucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedbylucas&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbylucas&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codedbylucas&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="My contributions" />
 </div>
 <div align="center">
-  <a href="https://github.com/mlucasdev">
+  <a href="https://github.com/codedbylucas">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,9 +24,9 @@
  
 <div> 
   <a href = "mailto:lucasmsantos819@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mlucasdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/codedbylucas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/mlucasdev/mlucasdev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/codedbylucas/codedbylucas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
