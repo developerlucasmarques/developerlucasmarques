@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Marques, dev Full-Stack!
+## Olá! Sou Lucas Marques, dev Back-End!
 <div align="center">
   <a href="https://github.com/codedbylucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedbylucas&show_icons=true&theme=dracula&count_private=true"/>
