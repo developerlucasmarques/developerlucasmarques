@@ -18,7 +18,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Express" height="30" width="auto" src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" />
+  <img align="center" alt="Express" height="35" width="auto" src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" />
 </div>
   
   ##
