@@ -9,7 +9,7 @@
   <a href="https://github.com/codedbylucas">
 </div>
 
-### Tecnoligas que domino
+## Tecnoligas que domino
 
 ##
 
