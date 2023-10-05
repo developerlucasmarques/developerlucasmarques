@@ -1,6 +1,6 @@
 ## Olá! Sou Lucas Marques, desenvolvedor  full-stack!
 
-![Status](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![Status](./profile-3d-contrib/profile-night-green.svg) -->
   
 <div align="center">
   <a href="https://github.com/codedbylucas">
