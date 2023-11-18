@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/codedbylucas">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=codedbylucas&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbylucas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbylucas&layout=compact&langs_count=8&theme=dracula"/>
 </div>
     
 ## Tecnoligas que domino
